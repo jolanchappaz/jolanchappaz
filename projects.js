@@ -96,9 +96,9 @@ const CATEGORIES = [
       { type: "image", src: "images/Paintings/3.JPG" },
       { type: "image", src: "images/Paintings/4.JPG" },
       { type: "image", src: "images/Paintings/5.JPG" },
-      { type: "image", src: "images/Paintings/6.JPG" },
-      { type: "image", src: "images/Paintings/7.JPG" },
-      { type: "image", src: "images/Paintings/8.JPG" },
+      { type: "image", src: "images/Paintings/6.jpg" },
+      { type: "image", src: "images/Paintings/7.jpg" },
+      { type: "image", src: "images/Paintings/8.jpg" },
     ],
   },
 
