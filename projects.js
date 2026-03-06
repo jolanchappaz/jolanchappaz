@@ -91,15 +91,15 @@ const CATEGORIES = [
     id: "paintings",
     title: "Paintings",
     slides: [
-      { type: "image", src: "images/Paintings/1.jpg" },
+      { type: "image", src: "images/Paintings/1.JPG" },
       { type: "text", content: `Quick and painless
         1h max of painting Acrylic on cardboard 40x55 cm
         For all inquiries: mail
         Paintings 5, 7 and 8 are sold.` },
-      { type: "image", src: "images/Paintings/2.jpg" },
-      { type: "image", src: "images/Paintings/3.jpg" },
-      { type: "image", src: "images/Paintings/4.jpg" },
-      { type: "image", src: "images/Paintings/5.jpg" },
+      { type: "image", src: "images/Paintings/2.JPG" },
+      { type: "image", src: "images/Paintings/3.JPG" },
+      { type: "image", src: "images/Paintings/4.JPG" },
+      { type: "image", src: "images/Paintings/5.JPG" },
       { type: "image", src: "images/Paintings/6.jpg" },
       { type: "image", src: "images/Paintings/7.jpg" },
       { type: "image", src: "images/Paintings/8.jpg" },
