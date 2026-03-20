@@ -115,7 +115,9 @@ const CATEGORIES = [
       30 sheets of flashs: 2023-2025
       Layout and printing: 
       Kaleidoskop Editions (Jordan Espagne), 
-      Martigny, Switzerland, 2026` },
+      Martigny, Switzerland, 2026
+      
+      Photos: © Jordan Espane` },
       { type: "image", src: "images/Bonne Nuit 2025/2.jpg" },
       { type: "image", src: "images/Bonne Nuit 2025/3.jpg" },
       { type: "text", content: `With this first collection of poems ~ flash book, 
