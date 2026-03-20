@@ -90,8 +90,8 @@ const CATEGORIES = [
   },
 
   {
-    id: "paintings",
-    title: "Paintings",
+    id: "painting",
+    title: "Painting",
     slides: [
       { type: "image", src: "images/Paintings/1.JPG" },
       { type: "text", content: `'Quick and painless'
